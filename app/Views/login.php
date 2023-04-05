@@ -40,7 +40,7 @@
 		<label for="password">Password</label>
 		<input type="password" name="password" id="password" required>
 
-		<button type="submit">Login</button>
+		<button class="btn btn-primary" type="submit">Login</button>
 	</form>
      
     <!-- Optional JavaScript -->
